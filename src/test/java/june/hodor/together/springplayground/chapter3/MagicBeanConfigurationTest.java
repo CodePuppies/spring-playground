@@ -2,7 +2,6 @@ package june.hodor.together.springplayground.chapter3;
 
 import org.junit.Assert;
 import org.junit.Test;
-import org.springframework.beans.BeansException;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.test.context.ContextConfiguration;
